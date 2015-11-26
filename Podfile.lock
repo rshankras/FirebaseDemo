@@ -1,0 +1,10 @@
+PODS:
+  - Firebase (2.4.3)
+
+DEPENDENCIES:
+  - Firebase
+
+SPEC CHECKSUMS:
+  Firebase: 48179995b561e2262c5d4060ecdffca45fbbff8b
+
+COCOAPODS: 0.39.0
